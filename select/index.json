@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Fake Love?（feat. nyamura）",
+  "base_artist": "21 Clown",
+  "createdAt": "2025-12-14T06:27:26.974878Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fake Love? (feat. nyamura)",
+      "artist": "21 Clown",
+      "has_synced": true,
+      "path": "select/01_Fake_Love__(feat._nyamura)_21_Clown.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Danielle Bradbery)",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/02_Fake_Love_(feat._Danielle_Bradbery)_Adam_Doleac.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fake Love (feat. THOVI) (Bounce Edit)",
+      "artist": "HBz",
+      "has_synced": true,
+      "path": "select/03_Fake_Love_(feat._THOVI)_(Bounce_Edit)_HBz.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Lil Tjay)",
+      "artist": "Lil Durk feat. Only The Family & Lil Tjay",
+      "has_synced": true,
+      "path": "select/04_Fake_Love_(feat._Lil_Tjay)_Lil_Durk_feat._Only_The_Family_&_Lil_Tjay.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Duncan Mighty & WizKid)",
+      "artist": "StarBoy; Duncan Mighty; Wizkid",
+      "has_synced": true,
+      "path": "select/05_Fake_Love_(feat._Duncan_Mighty_&_WizKid)_StarBoy;_Duncan_Mighty;_Wizkid.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Lil Tjay)",
+      "artist": "Lil Durk",
+      "has_synced": true,
+      "path": "select/06_Fake_Love_(feat._Lil_Tjay)_Lil_Durk.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Yxng Bane)",
+      "artist": "Nafe Smallz",
+      "has_synced": false,
+      "path": "select/07_Fake_Love_(feat._Yxng_Bane)_Nafe_Smallz.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Duncan Mighty & WizKid)",
+      "artist": "StarBoy",
+      "has_synced": true,
+      "path": "select/08_Fake_Love_(feat._Duncan_Mighty_&_WizKid)_StarBoy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Polo G)",
+      "artist": "Calboy",
+      "has_synced": true,
+      "path": "select/09_Fake_Love_(feat._Polo_G)_Calboy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Yxng Bane) : Fake Love (feat. Yxng Bane)",
+      "artist": "Nafe Smallz",
+      "has_synced": false,
+      "path": "select/10_Fake_Love_(feat._Yxng_Bane)___Fake_Love_(feat._Yxng_Bane)_Nafe_Smallz.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Dr Tawanda & Nelcy-B)",
+      "artist": "DJ Ngwazi",
+      "has_synced": false,
+      "path": "select/11_Fake_Love_(feat._Dr_Tawanda_&_Nelcy-B)_DJ_Ngwazi.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "fake love (feat. Clide)",
+      "artist": "Young saab",
+      "has_synced": true,
+      "path": "select/12_fake_love_(feat._Clide)_Young_saab.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Luh Kel)",
+      "artist": "Gavin Magnus",
+      "has_synced": true,
+      "path": "select/13_Fake_Love_(feat._Luh_Kel)_Gavin_Magnus.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Pacificadores)",
+      "artist": "Kadyn",
+      "has_synced": true,
+      "path": "select/14_Fake_Love_(feat._Pacificadores)_Kadyn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Ufo361)",
+      "artist": "Olexesh",
+      "has_synced": true,
+      "path": "select/15_Fake_Love_(feat._Ufo361)_Olexesh.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Yxng Bane)",
+      "artist": "Nafe Smallz",
+      "has_synced": true,
+      "path": "select/16_Fake_Love_(feat._Yxng_Bane)_Nafe_Smallz.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Yxng Bane)",
+      "artist": "Nafe Smallz",
+      "has_synced": true,
+      "path": "select/17_Fake_Love_(feat._Yxng_Bane)_Nafe_Smallz.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Queen Naija)",
+      "artist": "Jeezy",
+      "has_synced": true,
+      "path": "select/18_Fake_Love_(feat._Queen_Naija)_Jeezy.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Fake Love (feat. Danielle Bradbery)",
+      "artist": "Adam Doleac",
+      "has_synced": true,
+      "path": "select/19_Fake_Love_(feat._Danielle_Bradbery)_Adam_Doleac.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fake Love? (feat. nyamura)",
+      "artist": "21 Clown",
+      "has_synced": false,
+      "path": "select/pl_01_Fake_Love__(feat._nyamura)_21_Clown.txt"
+    }
+  ]
+}
